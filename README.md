@@ -50,7 +50,7 @@ Soy **estudiante de un bootcamp Full Stack Developer**, enfocado/a en construir 
 ## 🎥 Demo en vídeo
 
 ### El Fogo del Encant
-https://github.com/Mariaregue-spec/Mariaregue-spec/blob/main/media/demo-elfogo.mp4
+media/demo-elfogo.mp4 (1).mp4
 
 
 
