@@ -47,12 +47,6 @@ Soy **estudiante de un bootcamp Full Stack Developer**, enfocado/a en construir 
 * 🔹 **El Fogo del Encant** – Web corporativa con diseño atractivo y estructura clara.
   👉 Tecnologías: HTML5, CSS3, JavaScript
   🌐 Demo: [https://albertodeveloper94.github.io/elFogoDelEncant/index](https://albertodeveloper94.github.io/elFogoDelEncant/index)
-## 🎥 Demo en vídeo
-
-### El Fogo del Encant
-media/demo-elfogo.mp4 (1).mp4
-
-
 
 * 🔹 **Los Tres Fogones Selectos** – Sitio web orientado a restauración, con enfoque visual y responsive.
   👉 Tecnologías: HTML5, CSS3, JavaScript
@@ -68,14 +62,7 @@ media/demo-elfogo.mp4 (1).mp4
 
 ---
 
-## 📊 Estadísticas de GitHub
 
-> Puedes usar estos widgets (reemplaza `Mariaregue-spec`):
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mariaregue-spec&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariaregue-spec&layout=compact&theme=radical)
-```
 
 ---
 
