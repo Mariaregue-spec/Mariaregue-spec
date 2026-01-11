@@ -65,7 +65,7 @@ Sitio web orientado a restauración, con enfoque visual y responsive.
 
 👉 **Tecnologías:** HTML5, CSS3, JavaScript  
 🌐 **Demo:** https://albertodeveloper94.github.io/LosTresFogonesSelectos/  
-
+🖼️ **Capturas:**  
 ---
 
 ### 🔹 Stephen King Fan Page  
@@ -73,7 +73,7 @@ Página temática con navegación estructurada y contenido dinámico.
 
 👉 **Tecnologías:** HTML5, CSS3, JavaScript  
 🌐 **Demo:** https://albertodeveloper94.github.io/stephenKing/index.html  
-
+🖼️ **Capturas:**  
 ---
 
 ### 🔹 Caperucita Roja  
@@ -81,7 +81,7 @@ Proyecto creativo enfocado a narrativa visual e interactividad.
 
 👉 **Tecnologías:** HTML5, CSS3, JavaScript  
 🌐 **Demo:** https://mariaregue-spec.github.io/Caperucita-Roja/  
-
+🖼️ **Capturas:**  
 ---
 
 ## 📊 Estadísticas de GitHub  
