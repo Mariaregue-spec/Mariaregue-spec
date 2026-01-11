@@ -1,10 +1,10 @@
-👋 ¡Hola! Soy María Regueiro Ramil
+##👋 ¡Hola! Soy María Regueiro Ramil
 
 💻 Full Stack Developer en formación | 🌱 Aprendizaje continuo | 🚀 Apasionada del desarrollo web
 
 ⸻
 
-🚀 Sobre mí
+#🚀 Sobre mí
 
 Soy estudiante de un bootcamp de Desarrollo Full Stack, enfocada en construir aplicaciones web completas, cuidando tanto el frontend como el backend. Me gusta aprender haciendo, trabajar en equipo y enfrentar retos reales de desarrollo.
 	•	🌍 Ubicación: Betanzos (A Coruña), España
@@ -14,9 +14,9 @@ Soy estudiante de un bootcamp de Desarrollo Full Stack, enfocada en construir ap
 
 ⸻
 
-🛠️ Tecnologías y herramientas
+##🛠️ Tecnologías y herramientas
 
-💻 Lenguajes
+#💻 Lenguajes
 
 🎨 Frontend
 	•	⚛️ React
@@ -36,7 +36,7 @@ Soy estudiante de un bootcamp de Desarrollo Full Stack, enfocada en construir ap
 
 ⸻
 
-📌 Proyectos destacados
+##📌 Proyectos destacados
 
 🔹 El Fogo del Encant
 
@@ -92,7 +92,7 @@ Proyecto creativo enfocado a narrativa visual e interactividad.
 
 ⸻
 
-🤝 Conecta conmigo
+##🤝 Conecta conmigo
 	•	💼 LinkedIn: https://www.linkedin.com/in/maríaregueiro
 	•	🐙 GitHub: https://github.com/Mariaregue-spec
 
