@@ -95,6 +95,11 @@ Proyecto creativo enfocado a narrativa visual e interactividad.
 👉 **Tecnologías:** HTML5, CSS3, JavaScript  
 🌐 **Demo:** https://mariaregue-spec.github.io/Caperucita-Roja/  
 🖼️ **Capturas:**  
+<img width="447" height="851" alt="Captura de pantalla_11-1-2026_161945_mariaregue-spec github io" src="https://github.com/user-attachments/assets/d9ec1ea6-c001-49e9-86d9-800b6b0e7f67" /> <img width="447" height="984" alt="Captura de pantalla_11-1-2026_161945_mariaregue-spec github io2" src="https://github.com/user-attachments/assets/2ce1b2c5-6bbe-491b-9607-88cfab277a0d" />
+
+
+
+
 ---
 
 ## 📊 Estadísticas de GitHub  
