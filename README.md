@@ -66,6 +66,14 @@ Sitio web orientado a restauración, con enfoque visual y responsive.
 👉 **Tecnologías:** HTML5, CSS3, JavaScript  
 🌐 **Demo:** https://albertodeveloper94.github.io/LosTresFogonesSelectos/  
 🖼️ **Capturas:**  
+<img width="447" height="337" alt="Captura de pantalla_11-1-2026_155350_albertodeveloper94 github io" src="https://github.com/user-attachments/assets/9b898b32-c1d2-4114-afde-69eccefe467f" /> <img width="447" height="337" alt="Captura de pantalla_11-1-2026_155650_albertodeveloper94 github io" src="https://github.com/user-attachments/assets/f69d7905-ae20-434e-966f-a4ed5af01f5e" />
+
+<img width="447" height="573" alt="Captura de pantalla_11-1-2026_155552_albertodeveloper94 github io" src="https://github.com/user-attachments/assets/763305c9-f869-488a-8a62-157e402b1b9b" /> <img width="447" height="573" alt="Captura de pantalla_11-1-2026_155824_albertodeveloper94 github io" src="https://github.com/user-attachments/assets/091bbf37-030a-4e19-b547-38566d944c1f" />
+
+
+
+
+
 ---
 
 ### 🔹 Stephen King Fan Page  
