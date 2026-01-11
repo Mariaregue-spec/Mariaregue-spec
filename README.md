@@ -57,7 +57,8 @@ https://github.com/Mariaregue-spec/Mariaregue-spec/blob/main/media/demo-elfogo.m
 🖼️ **Capturas:**  
 ![Home]![Captura de pantalla_11-1-2026_15339_albertodeveloper94 github io](https://github.com/user-attachments/assets/713f0637-a0ee-4c05-881d-38a6a5bb22f4)
   
-![Detalle](media/elfogo-detalle.png)  
+![Detalle]![Captura de pantalla_11-1-2026_154243_albertodeveloper94 github io](https://github.com/user-attachments/assets/d7e686f8-a64c-4049-9510-3fd1df83f96d)
+
 
 ---
 
