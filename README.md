@@ -81,7 +81,12 @@ Página temática con navegación estructurada y contenido dinámico.
 
 👉 **Tecnologías:** HTML5, CSS3, JavaScript  
 🌐 **Demo:** https://albertodeveloper94.github.io/stephenKing/index.html  
-🖼️ **Capturas:**  
+🖼️ **Capturas:** 
+
+<img width="447" height="894" alt="Captura de pantalla_11-1-2026_16511_albertodeveloper94 github io" src="https://github.com/user-attachments/assets/277e6522-55ec-41bd-89db-cea446e35aae" /> <img width="536" height="405" alt="Captura de pantalla_11-1-2026_16638_albertodeveloper94 github io" src="https://github.com/user-attachments/assets/593be31f-6f02-4b3a-97b8-cddb5097f44a" />
+
+
+
 ---
 
 ### 🔹 Caperucita Roja  
