@@ -55,9 +55,7 @@ Web corporativa con diseño atractivo y estructura clara.
 https://github.com/Mariaregue-spec/Mariaregue-spec/blob/main/media/demo-elfogo.mp4  
 
 🖼️ **Capturas:**  
-![Home]![Captura de pantalla_11-1-2026_15339_albertodeveloper94 github io](https://github.com/user-attachments/assets/713f0637-a0ee-4c05-881d-38a6a5bb22f4)
-  
-![Detalle]![Captura de pantalla_11-1-2026_154243_albertodeveloper94 github io](https://github.com/user-attachments/assets/d7e686f8-a64c-4049-9510-3fd1df83f96d)
+<img width="223" height="493" alt="Captura de pantalla_11-1-2026_15349_albertodeveloper94 github io" src="https://github.com/user-attachments/assets/79fe6a5d-62c5-4c47-9365-66b6c5e73094" /> <img width="223" height="493" alt="Captura de pantalla_11-1-2026_154243_albertodeveloper94 github io" src="https://github.com/user-attachments/assets/a5612e9c-e8e8-4a49-8f63-72b52cc61c5e" />
 
 
 ---
