@@ -105,7 +105,8 @@ Proyecto creativo enfocado a narrativa visual e interactividad.
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mariaregue-spec&show_icons=true&theme=radical&hide_border=true" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Mariaregue-spec&show_icons=true&theme=radical&cache_seconds=86400" />
+
 </p>
 
 <p align="center">
