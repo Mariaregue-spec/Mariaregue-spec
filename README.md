@@ -102,22 +102,16 @@ Proyecto creativo enfocado a narrativa visual e interactividad.
 
 ---
 
-## 📊 GitHub Stats  
-
+## 📊 Mi Actividad en GitHub
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mariaregue-spec&show_icons=true&theme=radical"
-    alt="GitHub stats"
-  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mariaregue-spec&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mariaregue-spec&show_icons=true&theme=tokyonight&hide_border=true" height="180px" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mariaregue-spec&layout=compact&theme=radical"
-    alt="Top languages"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mariaregue-spec&theme=tokyonight" width="100%" />
 </p>
-
 📌 *Estas estadísticas reflejan mi progreso y aprendizaje continuo durante el bootcamp y mis proyectos personales.*
 
 
