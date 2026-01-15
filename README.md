@@ -52,8 +52,17 @@ Aplicación web que permite consultar el clima en tiempo real de distintas ciuda
 🌐 **Demo:** https://mariaregue-spec.github.io/pruebaAppTiempo/  
 📂 **Repositorio:** https://github.com/Mariaregue-spec/pruebaAppTiempo
 
+🖼️ **Capturas:** 
 
-### 🔹 El Fogo del Encant  
+<img width="286" height="422" alt="Captura de pantalla 2026-01-15 130712" src="https://github.com/user-attachments/assets/6370ec9c-7339-46f8-8300-528bea065a19" /> <img width="286" height="422" alt="Captura de pantalla 2026-01-15 125942" src="https://github.com/user-attachments/assets/6829f2a0-5691-4135-8a29-f7b73c8590b1" />
+
+<img width="286" height="422" alt="Captura de pantalla 2026-01-15 125921" src="https://github.com/user-attachments/assets/83d7fdac-d130-431b-8783-f68cb6435002" /> <img width="286" height="422" alt="Captura de pantalla 2026-01-15 125836" src="https://github.com/user-attachments/assets/c2fe11df-2637-4b2b-8cc6-72d3170c7fd4" />
+
+
+
+
+### 🔹 El Fogo del Encant  ![Uploading Captura de pantalla 2026-01-15 125836.png…]()
+
 Web corporativa con diseño atractivo y estructura clara.  
 
 👉 **Tecnologías:** HTML5, CSS3, JavaScript  
