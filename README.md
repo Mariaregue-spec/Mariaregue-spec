@@ -99,21 +99,6 @@ Página temática con navegación estructurada y contenido dinámico.
 
 <img width="447" height="894" alt="Captura de pantalla_11-1-2026_16511_albertodeveloper94 github io" src="https://github.com/user-attachments/assets/277e6522-55ec-41bd-89db-cea446e35aae" /> <img width="536" height="405" alt="Captura de pantalla_11-1-2026_16638_albertodeveloper94 github io" src="https://github.com/user-attachments/assets/593be31f-6f02-4b3a-97b8-cddb5097f44a" />
 
-
-
----
-
-### 🔹 Caperucita Roja  
-Proyecto creativo enfocado a narrativa visual e interactividad.  
-
-👉 **Tecnologías:** HTML5, CSS3, JavaScript  
-🌐 **Demo:** https://mariaregue-spec.github.io/Caperucita-Roja/  
-🖼️ **Capturas:**  
-<img width="447" height="851" alt="Captura de pantalla_11-1-2026_161945_mariaregue-spec github io" src="https://github.com/user-attachments/assets/d9ec1ea6-c001-49e9-86d9-800b6b0e7f67" /> <img width="447" height="984" alt="Captura de pantalla_11-1-2026_161945_mariaregue-spec github io2" src="https://github.com/user-attachments/assets/2ce1b2c5-6bbe-491b-9607-88cfab277a0d" />
-
-
-
-
 ---
 
 ## 📊 Mi Actividad en GitHub
