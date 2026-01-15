@@ -45,14 +45,19 @@ Me gusta aprender haciendo, trabajar en equipo y enfrentar retos reales de desar
 
 ## 📌 Proyectos destacados  
 
+### ⭐ App del Tiempo 🌤️  
+Aplicación web que permite consultar el clima en tiempo real de distintas ciudades mediante una API.
+
+👉 **Tecnologías:** HTML5, CSS3, JavaScript  
+🌐 **Demo:** https://mariaregue-spec.github.io/pruebaAppTiempo/  
+📂 **Repositorio:** https://github.com/Mariaregue-spec/pruebaAppTiempo
+
+
 ### 🔹 El Fogo del Encant  
 Web corporativa con diseño atractivo y estructura clara.  
 
 👉 **Tecnologías:** HTML5, CSS3, JavaScript  
-🌐 **Demo:** https://albertodeveloper94.github.io/elFogoDelEncant/index  
-
-🎥 **Vídeo demo:**  
-https://github.com/Mariaregue-spec/Mariaregue-spec/blob/main/media/demo-elfogo.mp4  
+🌐 **Demo:** https://albertodeveloper94.github.io/elFogoDelEncant/index    
 
 🖼️ **Capturas:**  
 <img width="223" height="493" alt="Captura de pantalla_11-1-2026_15349_albertodeveloper94 github io" src="https://github.com/user-attachments/assets/79fe6a5d-62c5-4c47-9365-66b6c5e73094" /> <img width="223" height="493" alt="Captura de pantalla_11-1-2026_154243_albertodeveloper94 github io" src="https://github.com/user-attachments/assets/a5612e9c-e8e8-4a49-8f63-72b52cc61c5e" />
