@@ -94,16 +94,55 @@ Aplicación web que permite consultar el clima en tiempo real de distintas ciuda
 
 ---
 
-### 🔹 El Fogo del Encant
+### ### 🔹 FitControl — Gym Management Platform 🏋️‍♂️
 
-Web corporativa con diseño atractivo y estructura clara.
+Plataforma web Full Stack para la gestión integral de gimnasios, desarrollada en equipo mediante metodologías ágiles.
 
-👉 **Tecnologías:** HTML5, CSS3, JavaScript
-🌐 **Demo:** https://albertodeveloper94.github.io/elFogoDelEncant/index
+El proyecto combina un dashboard analítico con módulos operativos para la gestión de profesores, actividades, socios e inscripciones, integrando frontend responsive y API REST robusta con reglas de negocio y validaciones.
+
+👉 **Tecnologías Frontend:** React, Vite, Tailwind CSS, React Router, Axios
+👉 **Tecnologías Backend:** Java, Spring Boot, JPA/Hibernate, MySQL, Maven
+👉 **Rol:** Product Owner & Full Stack Developer
+
+🔗 **Frontend:**
+https://github.com/Grupo-2-FitControl/FitControl-Frontend
+
+🔗 **Backend:**
+https://github.com/Grupo-2-FitControl/FitControl-Backend
+
+### ✨ Funcionalidades principales
+
+* Dashboard con KPIs en tiempo real
+* Gestión completa de profesores, actividades y socios
+* CRUD completo con validaciones
+* API REST estructurada con arquitectura DTO
+* Sistema de inscripciones y control de capacidad
+* Gestión de estados activos/inactivos
+* Responsive Design Mobile First
+* Arquitectura escalable basada en componentes y servicios
+
+### 🧠 Aspectos técnicos destacados
+
+* Arquitectura Full Stack desacoplada
+* Consumo de APIs REST
+* Validaciones backend y manejo global de excepciones
+* Relaciones JPA (OneToMany / ManyToMany)
+* Reglas de negocio avanzadas
+* Componentes reutilizables y arquitectura modular
 
 🖼️ **Capturas:**
 
-<img width="223" height="493" alt="Captura de pantalla_11-1-2026_15349_albertodeveloper94 github io" src="https://github.com/user-attachments/assets/79fe6a5d-62c5-4c47-9365-66b6c5e73094" /> <img width="223" height="493" alt="Captura de pantalla_11-1-2026_154243_albertodeveloper94 github io" src="https://github.com/user-attachments/assets/a5612e9c-e8e8-4a49-8f63-72b52cc61c5e" />
+<p>
+  <img src="https://github.com/user-attachments/assets/79cb5635-6749-4e5f-b578-c6b2a8a271a1" width="49%" height="500" alt="FitControl Dashboard"/>
+  <img src="https://github.com/user-attachments/assets/746075ca-0d5f-4694-b904-5f2162ad13bf" width="49%" height="500" alt="FitControl Activities"/>
+</p>
+
+<p>
+  <img src="https://github.com/user-attachments/assets/d7079ad4-ae35-4d44-91e4-7b84420af38f" width="49%" height="500" alt="FitControl Teachers"/>
+  <img src="https://github.com/user-attachments/assets/05e8b8ec-992a-4b3e-9a26-7fce58e09a71" width="49%" height="500" alt="FitControl Users"/>
+</p>
+
+
 
 ---
 
