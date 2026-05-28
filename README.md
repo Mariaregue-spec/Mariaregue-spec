@@ -94,7 +94,7 @@ Aplicación web que permite consultar el clima en tiempo real de distintas ciuda
 
 ---
 
-### ### 🔹 FitControl — Gym Management Platform 🏋️‍♂️
+### 🔹 FitControl — Gym Management Platform 🏋️‍♂️
 
 Plataforma web Full Stack para la gestión integral de gimnasios, desarrollada en equipo mediante metodologías ágiles.
 
