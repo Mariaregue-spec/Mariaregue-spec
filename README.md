@@ -146,31 +146,169 @@ https://github.com/Grupo-2-FitControl/FitControl-Backend
 
 ---
 
-### 🔹 Los Tres Fogones Selectos
+### 🔹 Lumen Cinema — Full Stack Cinema Management System 🎬
 
-Sitio web orientado a restauración, con enfoque visual y responsive.
+Plataforma full stack para la gestión integral de un cine moderno, con backoffice profesional, sistema de ventas, reservas, pagos online y analíticas en tiempo real.
 
-👉 **Tecnologías:** HTML5, CSS3, JavaScript
-🌐 **Demo:** https://albertodeveloper94.github.io/LosTresFogonesSelectos/
-
-🖼️ **Capturas:**
-
-<img width="447" height="337" alt="Captura de pantalla_11-1-2026_155350_albertodeveloper94 github io" src="https://github.com/user-attachments/assets/9b898b32-c1d2-4114-afde-69eccefe467f" /> <img width="447" height="337" alt="Captura de pantalla_11-1-2026_155650_albertodeveloper94 github io" src="https://github.com/user-attachments/assets/f69d7905-ae20-434e-966f-a4ed5af01f5e" />
-
-<img width="447" height="573" alt="Captura de pantalla_11-1-2026_155552_albertodeveloper94 github io" src="https://github.com/user-attachments/assets/763305c9-f869-488a-8a62-157e402b1b9b" /> <img width="447" height="573" alt="Captura de pantalla_11-1-2026_155824_albertodeveloper94 github io" src="https://github.com/user-attachments/assets/091bbf37-030a-4e19-b547-38566d944c1f" />
+👉 **Tecnologías Frontend:** React, Vite, Context API, Recharts, Stripe  
+👉 **Tecnologías Backend:** Java, Spring Boot, JWT, JPA, MySQL  
+👉 **Arquitectura:** API REST + Seguridad JWT + arquitectura en capas  
 
 ---
 
-### 🔹 Stephen King Fan Page
+### ✨ Funcionalidades principales
 
-Página temática con navegación estructurada y contenido dinámico.
+- 🎟️ Venta de entradas con selección de butacas interactiva  
+- 💺 Sistema de reserva temporal de asientos (bloqueo automático)  
+- 🛒 POS de concesiones con control de stock en tiempo real  
+- 👥 Gestión de clientes, empleados y turnos  
+- 🎬 CRUD completo de películas, salas y sesiones  
+- 💳 Pagos online con Stripe (PaymentIntent + Webhooks)  
+- 📄 Generación automática de tickets PDF con QR  
+- 🚨 Sistema de incidencias por roles  
+- 📊 Dashboard con KPIs y analíticas avanzadas  
+- ☁️ Integración con Cloudinary para imágenes  
 
-👉 **Tecnologías:** HTML5, CSS3, JavaScript
-🌐 **Demo:** https://albertodeveloper94.github.io/stephenKing/index.html
+---
 
-🖼️ **Capturas:**
+### 🧠 Aspectos técnicos destacados
 
-<img width="447" height="894" alt="Captura de pantalla_11-1-2026_16511_albertodeveloper94 github io" src="https://github.com/user-attachments/assets/277e6522-55ec-41bd-89db-cea446e35aae" /> <img width="536" height="405" alt="Captura de pantalla_11-1-2026_16638_albertodeveloper94 github io" src="https://github.com/user-attachments/assets/593be31f-6f02-4b3a-97b8-cddb5097f44a" />
+- Arquitectura en capas (Controller / Service / Repository)
+- Seguridad JWT stateless con roles
+- DTO pattern + MapStruct
+- Global Exception Handling
+- Sistema de fidelización con descuentos automáticos
+- Stock sincronizado en tiempo real entre módulos
+- API REST documentada con Swagger
+- 264 tests unitarios y de integración
+
+---
+
+#### 🍿 Logo del proyecto
+
+<p align="center">
+  <img width="200" height="213" alt="Captura de pantalla 2026-05-19 171922" src="https://github.com/user-attachments/assets/f0c88610-ebd0-4900-9dae-8316956fccd8" />
+
+</p>
+
+---
+
+### 🖼️ Capturas del proyecto
+
+#### 📊 Dashboard y gestión general
+
+![Dashboard](https://github.com/user-attachments/assets/109a406a-5412-4729-b12f-39a6b7f3e839)
+
+![Dashboard 2](https://github.com/user-attachments/assets/131629f5-955a-4ee1-921e-860afb0f429b)
+
+---
+
+### ⭐ *Proyecto Full Stack desarrollado como sistema profesional de gestión cinematográfica con enfoque real de producción.*
+
+---
+
+### 🔹 Capítulo Cero — Full Stack Library Management System 📖
+
+Sistema completo para la gestión de un archivo literario, con frontend en React y backend en Spring Boot. Permite administrar autores, libros y la relación entre ambos mediante una API REST estructurada.
+
+👉 **Frontend:** React 18 + Vite + React Router + CSS Modules  
+👉 **Backend:** Java + Spring Boot + JPA + MySQL  
+👉 **Arquitectura:** API REST + MVC + arquitectura por capas  
+
+---
+
+### ✨ Funcionalidades principales
+
+- 📚 Gestión de autores (CRUD completo)
+- 📖 Gestión de libros (CRUD completo)
+- 🔗 Relación autores ↔ libros (OneToMany / ManyToOne)
+- 🌐 Consumo de API REST desde frontend
+- 🎨 Interfaz moderna y responsive
+- 🧩 Componentes reutilizables
+- ⚙️ Arquitectura modular frontend/backend
+- 🗄️ Persistencia con MySQL + JPA/Hibernate
+- 🚨 Manejo de errores con respuestas 404/400
+
+---
+
+### 🧠 Aspectos técnicos destacados
+
+- Arquitectura MVC en backend
+- Separación por capas (Controller / Service / Repository)
+- API REST estructurada
+- React Router para navegación SPA
+- Fetch API para consumo de backend
+- Variables CSS para diseño consistente
+- Relaciones JPA entre entidades
+- Validación básica de errores
+
+---
+
+### 🖼️ Capturas del proyecto
+
+#### 📱 Vista general de la aplicación
+
+<img width="352" height="412" alt="Captura 1" src="https://github.com/user-attachments/assets/b5ffaa3e-9f82-40cb-80ba-f1d74c13bf50" />
+
+<img width="373" height="414" alt="Captura 2" src="https://github.com/user-attachments/assets/67b7c051-4061-448d-a2af-e441f65fa19e" />
+
+---
+
+#### ⚙️ Interfaz y navegación
+
+<img width="343" height="412" alt="Captura 3" src="https://github.com/user-attachments/assets/35a8e67f-9130-4efb-aab7-e848940a7de7" />
+
+<img width="333" height="415" alt="Captura 4" src="https://github.com/user-attachments/assets/8db3c0f3-b6fb-43e8-9f43-fe9beb15b02c" />
+
+---
+
+#### 🧱 Estructura del proyecto
+
+<img width="337" height="417" alt="Captura 5" src="https://github.com/user-attachments/assets/7f2609a2-b85e-4438-a1e4-129ef341f750" />
+
+<img width="340" height="415" alt="Captura 6" src="https://github.com/user-attachments/assets/bbc2e1dd-fe33-4c97-ac87-26e00a38ad11" />
+
+---
+
+### 📡 Rutas principales
+
+| Ruta | Página | Descripción |
+|------|--------|-------------|
+| `/` | Home | Página principal con presentación |
+| `/catalog` | Catálogo | Listado de libros |
+| `/authors` | Autores | CRUD de autores |
+| `/books` | Libros | Alta de nuevos libros |
+| `/essence` | Esencia | Página editorial |
+| `/contact` | Contacto | Formulario de contacto |
+
+---
+
+### ⚙️ Stack tecnológico
+
+**Frontend**
+- React 18
+- Vite
+- React Router DOM
+- CSS Modules
+- Fetch API
+
+**Backend**
+- Java 17+
+- Spring Boot 3
+- Spring Data JPA
+- MySQL
+- Maven
+
+---
+
+### 🌐 Repositorios
+
+- Frontend: https://github.com/Capitulo-Cero/capitulocero-frontend  
+- Backend: https://github.com/Capitulo-Cero/capitulocero-backend  
+
+---
+
+⭐ *Proyecto Full Stack de gestión literaria desarrollado con arquitectura moderna y enfoque real de API REST.*
 
 ---
 
